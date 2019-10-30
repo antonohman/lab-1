@@ -13,7 +13,7 @@ if (quiz2 == "marsipan" || quiz2 == "Marsipan") {
     correctAnswers += 1
   }
   
-if (quiz3 == "Michael Jacksson" || quiz3 == "michael jacksson" || quiz3 == "Micke J") {
+if (quiz3 == "Michael Jackson" || quiz3 == "michael jackson" || quiz3 == "Micke J") {
     correctAnswers += 1
   }
 
