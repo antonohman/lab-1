@@ -25,7 +25,7 @@ let prisonRealese = 0;
   if (correctAnswers == 4) {
     prisonrealese = alert("Fantastiskt, du är fri!")
 
-  } else if (correctAnswers >= 3) {
+  } else if (correctAnswers <= 3) {
     prisonrealese = alert("Vad i hela friden? Försök igen...")
   }
   
