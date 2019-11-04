@@ -1,6 +1,3 @@
-// button.onclick = startQuiz
-
-
 function startQuiz() {
   let quiz1 = prompt("Vad blir 506 + 831?").toLowerCase()
   let quiz2 = prompt("Vad bör man inte ha i chokladbollar?").toLowerCase()
@@ -10,9 +7,6 @@ function startQuiz() {
 
   if (quiz1 === "1337") {
     correctAnswers += 1
-  //  doThis()
- // } else if (quiz1 === "1080") {
- //   doThat()
   }
 
   if (quiz2 === "marsipan") {
@@ -36,5 +30,3 @@ function startQuiz() {
   }
 
 }
-
-// const resultsContainer = document.getElementById('results')
